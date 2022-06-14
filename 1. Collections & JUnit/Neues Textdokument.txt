@@ -1,0 +1,2 @@
+ei eine Klasse Project mit einem int-Attribut priority und einem
+zugehörigen Getter gegeben. Dann könnte die compareTo()-Methode wie folgt aussehen:
